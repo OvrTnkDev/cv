@@ -8,13 +8,13 @@ Questa repository raccoglie il mio CV professionale in formato PDF. Al suo inter
 
 ## 📁 File Principale
 
-- ([./Fabio_DAlessandro_CV.pdf](https://github.com/Egy98/cv/blob/main/Fabio_Dalessandro_cv.pdf)) – Curriculum aggiornato
+- ([./Fabio_DAlessandro_CV.pdf](https://github.com/OvrTnkDev/cv/blob/main/Fabio_Dalessandro_cv.pdf)) – Curriculum aggiornato
 
 ## 🧠 Competenze Tecniche
 
 - **Linguaggi e scripting:** C#(programmazione orientata agli oggetti (OOP), design pattern), Python (basi), RPG IV (ILE/Free Format), CL, SQL (DB2 AS400), HTML/CSS (basi)
 - **Database & Analisi Dati:** DB2 su AS400, estrazione dati, ottimizzazione query, pipeline ETL, Excel avanzato (macro, pivot, collegamenti a dati esterni)
-- **Ambienti & Strumenti:** IBM i (AS400), Visual Studio, Git, DBeaver, WebGate400, Power BI (base)
+- **Ambienti & Strumenti:** IBM i (AS400), Visual Studio, Git, DBeaver, WebGate400
 - **Competenze tecnico-funzionali:** analisi requisiti, traduzione in soluzioni scalabili, automazione processi, interfaccia tra IT e business, documentazione tecnica chiara
 
 ## 🔗 Contatti
@@ -24,3 +24,4 @@ Questa repository raccoglie il mio CV professionale in formato PDF. Al suo inter
 ---
 
 📬 *Per opportunità lavorative o collaborazioni, non esitare a contattarmi!*
+- dalessandrofabio96@gmail.com
