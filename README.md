@@ -1,27 +1,56 @@
-# 📄 Curriculum Vitae - Fabio D'Alessandro
+# Fabio D'Alessandro
 
-Benvenuto nella repository contenente il mio **Curriculum Vitae** aggiornato, che riflette le competenze acquisite fino ad oggi e il percorso professionale in evoluzione.
+### 💻 Junior .NET Developer | C# | SQL | Backend & Data Optimization
 
-## 📌 Descrizione
-
-Questa repository raccoglie il mio CV professionale in formato PDF. Al suo interno troverai informazioni aggiornate su **competenze tecniche**, **esperienze lavorative**, **formazione** e **progetti significativi**, con particolare focus sullo sviluppo moderno in C# e .NET.
-
-## 📁 File Principale
-
-- ([./Fabio_DAlessandro_CV.pdf](https://github.com/OvrTnkDev/cv/blob/main/Fabio_Dalessandro_cv.pdf)) – Curriculum aggiornato
-
-## 🧠 Competenze Tecniche
-
-- **Linguaggi e scripting:** C#(programmazione orientata agli oggetti (OOP), design pattern), Python (basi), RPG IV (ILE/Free Format), CL, SQL (DB2 AS400), HTML/CSS (basi)
-- **Database & Analisi Dati:** DB2 su AS400, estrazione dati, ottimizzazione query, pipeline ETL, Excel avanzato (macro, pivot, collegamenti a dati esterni)
-- **Ambienti & Strumenti:** IBM i (AS400), Visual Studio, Git, DBeaver, WebGate400
-- **Competenze tecnico-funzionali:** analisi requisiti, traduzione in soluzioni scalabili, automazione processi, interfaccia tra IT e business, documentazione tecnica chiara
-
-## 🔗 Contatti
-
-- LinkedIn: [linkedin.com/in/fabio-d-alessandro-a06a3813a](https://www.linkedin.com/in/fabio-d-alessandro-a06a3813a)
+Benvenuto nella repository del mio profilo professionale. Qui puoi trovare una panoramica delle mie competenze e il mio Curriculum Vitae aggiornato.
 
 ---
 
-📬 *Per opportunità lavorative o collaborazioni, non esitare a contattarmi!*
-- dalessandrofabio96@gmail.com
+## 📄 CV Aggiornato
+
+👉 **[Scarica il mio Curriculum Vitae (PDF)](./Fabio_DAlessandro_CV.pdf)**
+
+---
+
+## 🚀 Chi Sono
+
+Sviluppatore software Junior focalizzato su **C#/.NET** e **SQL**. Sto consolidando le competenze backend approfondendo **ASP.NET Core** ed **Entity Framework**, con un interesse parallelo per lo sviluppo mobile (**Flutter**).
+
+Studente di Informatica (L-31), unisco lo studio teorico alla pratica: ho maturato esperienza diretta nell'**ottimizzazione di query complesse**, migliorando sensibilmente l'efficienza dei processi di reportistica (**-50% tempi di elaborazione**).
+
+Ambisco a un ruolo tecnico in contesti strutturati per contribuire allo sviluppo di soluzioni backend scalabili.
+
+---
+
+## 🛠 Tech Stack
+
+### **Sviluppo .NET & Architettura**
+
+- **Linguaggi:** C# (Intermedio), Python (Scripting/ETL)
+- **Concetti:** OOP, Principi SOLID, Design Patterns, Dependency Injection
+- **Frameworks:** ASP.NET Core, Entity Framework _(In apprendimento)_
+
+### **Database & Data Engineering**
+
+- **RDBMS:** SQL (DB2 su IBM i/AS400), MySQL
+- **Skills:** Query Optimization, Complex Joins, Pipeline ETL, Trigger
+- **Legacy:** RPG IV (ILE/Free), CL (Manutenzione)
+
+### **Mobile & Frontend**
+
+- **Mobile:** Flutter / Dart _(In apprendimento)_
+- **Web:** HTML5, CSS3
+
+### **Tools & Workflow**
+
+- **IDE:** Visual Studio, VS Code, DBeaver
+- **Version Control:** Git
+
+---
+
+## 📫 Contatti
+
+Sono sempre aperto a nuove opportunità lavorative e collaborazioni tecniche.
+
+- 💼 **LinkedIn:** [linkedin.com/in/fabio-d-alessandro-a06a3813a](https://www.linkedin.com/in/fabio-d-alessandro-a06a3813a)
+- 📧 **Email:** [dalessandrofabio96@gmail.com](mailto:dalessandrofabio96@gmail.com)
